@@ -1,0 +1,17 @@
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\bin\Debug\StartUpHandler.exe.config
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\bin\Debug\StartUpHandler.exe
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\bin\Debug\StartUpHandler.pdb
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.csprojResolveAssemblyReference.cache
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.Form1.resources
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.Properties.Resources.resources
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.csproj.GenerateResource.Cache
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.exe
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.pdb
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\bin\Debug\StartUpHandler.exe.config
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.exe
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.pdb
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\bin\Debug\StartUpHandler.exe
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\bin\Debug\StartUpHandler.pdb
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.Form1.resources
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.Properties.Resources.resources
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\StartUpHandler\StartUpHandler\obj\Debug\StartUpHandler.csproj.GenerateResource.Cache
